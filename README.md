@@ -1,0 +1,1 @@
+# fiche_personnage_hamster
